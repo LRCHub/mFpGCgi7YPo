@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "One-Way",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-16T06:49:15.174577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Way Ticket (Because I Can)",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/01_One_Way_Ticket_(Because_I_Can)_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Way or Another",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_One_Way_or_Another_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Way",
+      "artist": "Daichi Yamamoto",
+      "has_synced": true,
+      "path": "select/03_One_Way_Daichi_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Way Road",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_One_Way_Road_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Way or Another",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/05_One_Way_or_Another_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Way to Go",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/06_One_Way_to_Go_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Way or the Other",
+      "artist": "The Fifth Avenue Band",
+      "has_synced": true,
+      "path": "select/07_One_Way_or_the_Other_The_Fifth_Avenue_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Way Out",
+      "artist": "The Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/08_One_Way_Out_The_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Way Street",
+      "artist": "Ann Peebles",
+      "has_synced": false,
+      "path": "select/09_One_Way_Street_Ann_Peebles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Way",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/10_One_Way_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Way",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/11_One_Way_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Way",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/12_One_Way_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Way or Another",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/13_One_Way_or_Another_Necro.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Way To Go",
+      "artist": "Cass McCombs",
+      "has_synced": true,
+      "path": "select/14_One_Way_To_Go_Cass_McCombs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Way Trigger",
+      "artist": "The Strokes",
+      "has_synced": true,
+      "path": "select/15_One_Way_Trigger_The_Strokes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One-Way",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_One-Way_HIMEHINA.txt"
+    }
+  ]
+}
